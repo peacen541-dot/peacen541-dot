@@ -16,9 +16,19 @@ I’m passionate about transforming data into clear, actionable insights.
 ## 📌 What I’m Working On
 - Building real-world data analytics projects
 - Improving SQL and Power BI skills
-- Sharing insights on LinkedIn
+- Sharing insights
 
 ---
+
+## 📫 How to reach me
+- peacen541@gmail.com
+
+---
+
+## ⚡ Fun fact I love food
+- I love music & movies
+
+-------
 
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nelson-peace-468652347/
