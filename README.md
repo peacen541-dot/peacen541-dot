@@ -31,4 +31,6 @@ I’m passionate about transforming data into clear, actionable insights.
 -------
 
 ## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/nelson-peace-468652347/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-peace-468652347/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NelsonPeace15?t=dzQkA1Gwq9e-_3CPS74XjQ&s=09)
+- [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barbiep716/?igsh=MXdhZXkwNGFjZmRjOA%3D%3D#)
