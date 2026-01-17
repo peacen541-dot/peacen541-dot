@@ -25,7 +25,7 @@ I’m passionate about transforming data into clear, actionable insights.
 
 ---
 
-## ⚡ Fun fact I love food
+## ⚡ Fun fact 
 - I love music & movies
 
 -------
